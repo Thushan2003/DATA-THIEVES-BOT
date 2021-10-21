@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+DATA+THIEVES_v2+WA+Bot+repo;Created+by+AMANTHA;DATA+THIEVES+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+DATA+THIEVES_v2+WA+Bot+repo;Created+by+AMANTHA+KARUNANAYAKA;DATA+THIEVES+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-cnter.glitch.me/cyberchekuthan/count.svg)
 
