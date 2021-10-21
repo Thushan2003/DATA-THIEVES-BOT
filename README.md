@@ -1,8 +1,8 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Amalser_v2+WA+Bot+repo;Created+by+Amal;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Amalser_v2+WA+Bot+repo;Created+by+AMANTHA;DATA+THIEVES+SMART+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/cyberchekuthan/count.svg)
+![Visitor Count](https://profile-cnter.glitch.me/cyberchekuthan/count.svg)
 
  </a>
 </p>
@@ -15,7 +15,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/cybehekuthan">Amalser_v2</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Amalser_v2</a> to
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberchekuthan/Amalser_v2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thushan2003/DATA-THIEVES-BOT) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
